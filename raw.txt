@@ -1,1 +1,1 @@
-https://github.com/elena1113/MetadatenDMT/blob/main/Eignungspruefung.json
+https://raw.githubusercontent.com/elena1113/MetadatenDMT/main/Eignungspruefung.json
