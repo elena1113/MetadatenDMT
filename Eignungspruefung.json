@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://w3id.org/kim/amb/draft/context.jsonld",
+        {"@language": "de"}
+    ],
+    "id": "https://detmoldmusictools.de/index.php?cmd=courseManager&mod=course&action=show&courseId=362",
+    "type": ["LearningResource"],
+    "name": "003 Eignungsprüfung an der HfM Detmold",
+    "creator": [
+        {
+            "type": "Person",
+            "name": "André Stärk",
+            "honorificPrefix": "Prof."
+        }
+    ],
+    "description": "Die Kursmaterialien bereiten auf Eignungsprüfungen an deutschen Musikhochschulen vor, insbesondere auf die Prüfungen an der Hochschule für Musik Detmold in den Studiengängen B. M. Orchestermusik, B. M. Freischaffender Musikder, B. M. Oper/Konzert, B. M. Instrumental- und Gesangspädagogik, B. M. Elementare Musikpädagogik, B. Edu. Lehramt Musik.",
+    "license": {"id": "https://creativecommons.org/licenses/by-sa/4.0/"},
+    "learningResourceType": [
+        {"id": "https://w3id.org/kim/hcrt/course"}
+    ],
+    "publisher": [
+        {
+            "type": "Organization",
+            "name": "Hochschule für Musik Detmold"
+        }
+    ],
+    "inLanguage": ["de"],
+    "keywords": [
+        "Musik",
+        "Musiktheorie",
+        "Gehörbildung",
+        "Eignungsprüfung",
+        "Aufnahmeprüfung"
+    ],
+    "about": [
+        {"id": "https://w3id.org/kim/hochschulfaechersystematik/n230"},
+        {"id": "https://w3id.org/kim/hochschulfaechersystematik/n080"},
+        {"id": "https://w3id.org/kim/hochschulfaechersystematik/n113"},
+        {"id": "https://w3id.org/kim/hochschulfaechersystematik/n165"}
+    ]
+}
